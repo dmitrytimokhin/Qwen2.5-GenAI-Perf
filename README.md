@@ -143,7 +143,8 @@ docker run -it --rm --gpus=all -p 8003:8001 nvcr.io/nvidia/tritonserver:24.03-py
 genai-perf -m ensemble --service-kind triton --output-format trtllm --input-type synthetic --num-of-output-prompts 100 --random-seed 123 --input-tokens-mean 2500 --input-tokens-stddev 250 --streaming --expected-output-tokens 150 --concurrency 1 --measurement-interval 7200 --profile-export-file my_profile_export.json --url host.docker.internal:8001
 ```
 
-![Uploading image.png…]()
+<img width="1137" alt="Снимок экрана 2025-02-17 в 14 48 21" src="https://github.com/user-attachments/assets/d730c468-e029-4f81-9a57-e2e8836f56f1" />
+
 
 ---
 
