@@ -1,4 +1,5 @@
 # Нагрузочное тестирование модели Qwen2.5-0.5B-Instruct с использованием Triton Inference Server и GenAI-Perf
+* Оригинальный GitHub Triton Inference Server: https://github.com/triton-inference-server/client/blob/r24.03/src/c%2B%2B/perf_analyzer/genai-perf/docs/tutorial.md
 
 Этот проект демонстрирует процесс настройки и запуска нагрузочного тестирования модели **Qwen2.5-0.5B-Instruct** с использованием **Triton Inference Server** и инструмента **genai-perf**. Работа проводилась на платформе **Windows** с использованием **Windows PowerShell**. Основные характеристики компьютера:
 
