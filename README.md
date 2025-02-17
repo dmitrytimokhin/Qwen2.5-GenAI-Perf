@@ -2,7 +2,7 @@
 
 Этот проект демонстрирует процесс настройки и запуска нагрузочного тестирования модели **Qwen2.5-0.5B-Instruct** с использованием **Triton Inference Server** и инструмента **genai-perf**. Работа проводилась на платформе **Windows** с использованием **Windows PowerShell**. Основные характеристики компьютера:
 
-- GPU: NVIDIA RTX 3060 12GB
+- GPU: GEFORCE RTX 3060 12GB
 - RAM: 32 ГБ
 - CPU: Intel Core i5-12400F
 
